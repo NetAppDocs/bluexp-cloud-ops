@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: concept-compute.html
 keywords: concepts, how cloud analyzer works, compute, compute costs, compute savings
-summary: By leveraging Spot's Cloud Analyzer service, Cloud Manager can provide a high-level cost analysis of your cloud compute spending and identify potential savings.
+summary: By leveraging Spot's Cloud Analyzer service, BlueXP can provide a high-level cost analysis of your cloud compute spending and identify potential savings.
 ---
 
 = Learn about the Compute service
@@ -13,7 +13,7 @@ summary: By leveraging Spot's Cloud Analyzer service, Cloud Manager can provide 
 :imagesdir: ./media/
 
 [.lead]
-By leveraging https://spot.io/products/cloud-analyzer/[Spot's Cloud Analyzer service^], Cloud Manager can provide a high-level cost analysis of your cloud compute spending and identify potential savings.
+By leveraging https://spot.io/products/cloud-analyzer/[Spot's Cloud Analyzer service^], BlueXP can provide a high-level cost analysis of your cloud compute spending and identify potential savings.
 
 Cloud Analyzer is a cloud infrastructure management solution that uses advanced analytics to provide visibility and insights into your cloud costs. It shows you where you can optimize those costs and lets you implement that optimization using Spot’s portfolio of continuous optimization products in just a few clicks.
 
@@ -29,11 +29,11 @@ This service is supported with AWS.
 
 == Cost
 
-There's no cost to use this service through Cloud Manager.
+There's no cost to use this service through BlueXP.
 
-== How Cloud Analyzer works with Cloud Manager
+== How Cloud Analyzer works with BlueXP
 
-At a high-level, Cloud Analyzer integration with Cloud Manager works like this:
+At a high-level, Cloud Analyzer integration with BlueXP works like this:
 
 . You click *Compute* and connect your AWS management account.
 
@@ -42,10 +42,10 @@ At a high-level, Cloud Analyzer integration with Cloud Manager works like this:
 .. Creates an organization in the Spot platform.
 .. Sends an email welcoming you to Spot.
 +
-You can log in to the Spot service using the same single-sign on credentials that you use with Cloud Central and Cloud Manager.
+You can log in to the Spot service using the same single-sign on credentials that you use with BlueXP.
 .. Cloud Analyzer starts processing your AWS account data.
 
-. In Cloud Manager, the Compute page refreshes and you use the information to gain insights on past, current, and future cloud costs.
+. In BlueXP, the Compute page refreshes and you use the information to gain insights on past, current, and future cloud costs.
 
 . You click *Get Full Analysis* at any time to go to Spot's Cloud Analyzer, which provides a full analysis of your cloud spend and savings opportunities.
 

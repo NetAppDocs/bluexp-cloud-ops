@@ -23,7 +23,7 @@ After you connect your account, view an analysis of your cloud compute costs to 
 
 . View the cost analysis to gain insights into your compute costs.
 
-image:screenshot_compute_dashboard.gif[A screenshot that shows the Cost Analysis page in Cloud Manager. This page includes the information described in the text below.]
+image:screenshot_compute_dashboard.gif[A screenshot that shows the Cost Analysis page in BlueXP. This page includes the information described in the text below.]
 
 Month to date cost:: The total cost of your workloads from the beginning of the current month to present.
 

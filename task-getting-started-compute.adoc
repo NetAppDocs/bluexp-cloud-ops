@@ -17,7 +17,7 @@ Connect Cloud Analyzer to your AWS payer account so that you can start optimizin
 
 .Steps
 
-. Click *Compute*.
+. From the navigation menu, select *Extensions > Cloud ops*.
 
 . Click *Add AWS Credentials to Start*.
 
