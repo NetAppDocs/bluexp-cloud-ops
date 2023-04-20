@@ -19,7 +19,7 @@ After you connect your account, view an analysis of your cloud compute costs to 
 
 .Steps
 
-. Click *Compute*.
+. Click *Extensions > Cloud ops*.
 
 . View the cost analysis to gain insights into your compute costs.
 
