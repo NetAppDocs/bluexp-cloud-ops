@@ -40,7 +40,7 @@ homepage:
           url: concept-compute.html
         - title: Connect your AWS account
           url: task-getting-started-compute.html
-    - title: Use the Compute service
+    - title: Use BlueXP cloud ops
       links:
         - title: Analyze your compute costs
           url: task-analyze-costs.html
