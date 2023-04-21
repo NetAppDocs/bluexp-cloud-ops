@@ -5,7 +5,7 @@ keywords: concepts, how cloud analyzer works, compute, compute costs, compute sa
 summary: By leveraging Spot's Cloud Analyzer service, BlueXP can provide a high-level cost analysis of your cloud compute spending and identify potential savings.
 ---
 
-= Learn about the Compute service
+= Learn about BlueXP cloud ops
 :hardbreaks:
 :nofooter:
 :icons: font
@@ -15,7 +15,7 @@ summary: By leveraging Spot's Cloud Analyzer service, BlueXP can provide a high-
 [.lead]
 By leveraging https://spot.io/products/cloud-analyzer/[Spot's Cloud Analyzer service^], BlueXP can provide a high-level cost analysis of your cloud compute spending and identify potential savings.
 
-Cloud Analyzer is a cloud infrastructure management solution that uses advanced analytics to provide visibility and insights into your cloud costs. It shows you where you can optimize those costs and lets you implement that optimization using Spot’s portfolio of continuous optimization products in just a few clicks.
+Cloud Analyzer is a cloud infrastructure management solution that uses advanced analytics to provide visibility and insights into your cloud costs. It shows you where you can optimize those costs and lets you implement that optimization using Spot's portfolio of continuous optimization products in just a few clicks.
 
 == Features
 
@@ -35,7 +35,7 @@ There's no cost to use this service through BlueXP.
 
 At a high-level, Cloud Analyzer integration with BlueXP works like this:
 
-. You click *Compute* and connect your AWS management account.
+. You click *Extensions > Cloud ops* and connect your AWS management account.
 
 . NetApp configures your environment as follows:
 
@@ -45,7 +45,7 @@ At a high-level, Cloud Analyzer integration with BlueXP works like this:
 You can log in to the Spot service using the same single-sign on credentials that you use with BlueXP.
 .. Cloud Analyzer starts processing your AWS account data.
 
-. In BlueXP, the Compute page refreshes and you use the information to gain insights on past, current, and future cloud costs.
+. In BlueXP, the cloud ops page refreshes and you use the information to gain insights on past, current, and future cloud costs.
 
 . You click *Get Full Analysis* at any time to go to Spot's Cloud Analyzer, which provides a full analysis of your cloud spend and savings opportunities.
 

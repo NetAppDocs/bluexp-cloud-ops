@@ -1,5 +1,5 @@
 settings:
-  name: Compute
+  name: BlueXP cloud ops
   platform: cloud
   internal:
     pdf_enabled: true
@@ -8,13 +8,13 @@ settings:
   rss_page: "whats-new.html"
 sidebar:
   entries:
-    - title: Compute docs
+    - title: BlueXP cloud ops docs
       url: /index.html
     - title: Release notes
       url: /whats-new.html
     - title: Get started
       entries:
-        - title: Learn about the Compute service
+        - title: Learn about BlueXP cloud ops
           url: /concept-compute.html
         - title: Connect your AWS account
           url: /task-getting-started-compute.html
@@ -36,11 +36,11 @@ homepage:
   tiles:
     - title: Get started
       links:
-        - title: Learn about the Compute service
+        - title: Learn about BlueXP cloud ops
           url: concept-compute.html
         - title: Connect your AWS account
           url: task-getting-started-compute.html
-    - title: Use the Compute service
+    - title: Use BlueXP cloud ops
       links:
         - title: Analyze your compute costs
           url: task-analyze-costs.html

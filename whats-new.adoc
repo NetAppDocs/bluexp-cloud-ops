@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: whats-new.html
 keywords: what's new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes
-summary: "Learn what's new with the Compute service in BlueXP (formerly Cloud Manager)."
+summary: "Learn what's new with BlueXP cloud ops."
 ---
 
 = What's new
@@ -13,7 +13,7 @@ summary: "Learn what's new with the Compute service in BlueXP (formerly Cloud Ma
 :imagesdir: ./media/
 
 [.lead]
-Learn what's new with the Compute service in BlueXP (formerly Cloud Manager).
+Learn what's new with BlueXP cloud ops.
 
 // tag::whats-new[]
 == 7 December 2020
