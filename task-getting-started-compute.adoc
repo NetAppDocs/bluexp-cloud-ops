@@ -27,7 +27,7 @@ Connect Cloud Analyzer to your AWS payer account so that you can start optimizin
 .. Run the CloudFormation template.
 .. Paste the Spot RoleARN.
 +
-https://help.spot.io/cloud-analyzer/connect-your-aws-account-2/[View more details about these steps^].
+https://docs.spot.io/connect-your-cloud-provider/first-account/?id=connect-aws[View more details about these steps^].
 +
 image:screenshot_compute_add_account.gif[A screenshot that shows each field available on the connection page.]
 
