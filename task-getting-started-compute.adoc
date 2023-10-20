@@ -1,11 +1,11 @@
 ---
 sidebar: sidebar
 permalink: task-getting-started-compute.html
-keywords: compute, cloud insights, cloud analyzer, connect cloud analyzer, connect management account, connect payer account, aws payer account
-summary: Complete a few steps to get in-depth analysis of your cloud compute costs from Spot's Cloud Analyzer.
+keywords: compute, cloud analyzer, connect cloud analyzer, connect management account, connect payer account, aws payer account
+summary: Connect Cloud Analyzer to your AWS payer account so that you can start optimizing your cloud compute costs.
 ---
 
-= Connect Cloud Analyzer to your AWS account
+= Connect your AWS account
 :hardbreaks:
 :nofooter:
 :icons: font
