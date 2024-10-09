@@ -1,0 +1,5 @@
+=== Navigation between Cloud Manager and Spot
+
+It's now easier to navigate between Cloud Manager and Spot.
+
+A new *Storage Operations* section in Spot enables you to navigate directly to Cloud Manager. After you're done, you can get back to Spot from the *Compute* tab in Cloud Manager.
